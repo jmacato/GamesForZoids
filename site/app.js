@@ -1,5 +1,5 @@
-import { localizePage, text } from './i18n.js?v=20261127-hub-56';
-import { GAMES, DEFAULT_GAME } from './games.js?v=20261127-hub-56';
+import { localizePage, text } from './i18n.js?v=20261127-hub-57';
+import { GAMES, DEFAULT_GAME } from './games.js?v=20261127-hub-57';
 
 let effects;
 let pageLanguage = 'en';
@@ -301,7 +301,7 @@ function startWorker(action, file) {
   stopWorker();
   const selectedGame = game;
   const selectedLanguage = patchLanguage;
-  const task = new Worker(new URL('./worker.js?v=20261127-hub-56', import.meta.url), { type: 'module' });
+  const task = new Worker(new URL('./worker.js?v=20261127-hub-57', import.meta.url), { type: 'module' });
   worker = task;
   workerTimer = setTimeout(() => {
     failWorker('error.timeout');
@@ -446,7 +446,7 @@ if (!supported) {
   zone.classList.add('disabled');
   if (hasPatches()) setStatus('error.insecureContext', 'error');
 }
-import('./effects.js?v=20261127-hub-56').then(({ createEffects }) => {
+import('./effects.js?v=20261127-hub-57').then(({ createEffects }) => {
   effects = createEffects();
 }).catch(() => {
   clearTimeout(window.introFallback);

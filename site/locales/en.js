@@ -1,4 +1,4 @@
-import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from '../version.mjs?v=20261127-hub-56';
+import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from '../version.mjs?v=20261127-hub-57';
 
 export default {
   "about.mechanicsAfter": "page.",
@@ -11,7 +11,7 @@ export default {
   "brand.homeAria": "Games 4 Zoids home",
   "brand.label": "FAN PATCHES",
   "download.legacy.en": "Zoids Legacy (USA) - Retranslation.gba",
-  "download.legacy.es": "Zoids Legacy (USA) - Spanish (partial).gba",
+  "download.legacy.es": "Zoids Legacy (USA) - Spanish.gba",
   "download.saga.en": "Zoids Saga (Japan) - English.gba",
   "download.vs.en": "Zoids VS (Japan) - English.iso",
   "download.vs3.en": "Zoids VS III (Japan) - English.iso",
@@ -105,7 +105,7 @@ export default {
   "language.patchLabel": "Patch language",
   "language.shortEnglish": "ENG",
   "language.shortSpanish": "ESP",
-  "language.spanish": "Español (in progress)",
+  "language.spanish": "Español",
   "noscript.message": "Enable JavaScript to apply the patch in your browser.",
   "page.description": "Apply Zoids™ fan patches in your browser: Zoids™ Legacy in English and Spanish, Zoids™ Saga, Zoids™ VS. and Zoids™ VS. III in English.",
   "page.switchToEnglish": "Switch page language to English",
