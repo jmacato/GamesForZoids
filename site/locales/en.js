@@ -1,4 +1,4 @@
-import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from '../version.mjs?v=20261127-hub-55';
+import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from '../version.mjs?v=20261127-hub-56';
 
 export default {
   "about.mechanicsAfter": "page.",
@@ -168,7 +168,7 @@ export default {
   "theme.darkLabel": "DARK MODE",
   "theme.lightAria": "Switch to light mode",
   "theme.lightLabel": "LIGHT MODE",
-  "vs.about.patch": "Zoids™ VS. came out in North America as Zoids™: Battle Legends. This fan translation works from the Japanese original and covers the story, mission briefings, menus and the names of Zoids, parts and pilots. Voice acting stays in Japanese.",
+  "vs.about.patch": "Zoids™ VS. never had an English release. This fan translation covers the story, mission briefings, menus and the names of Zoids, parts and pilots. Voice acting stays in Japanese.",
   "vs.about.story": "Zoids™ VS. came out for the Nintendo GameCube™ in Japan in 2002. Mission Mode tells its story from two sides: the Republic’s Blue Unicorn test squad and the Empire’s Rottiger special-operations squad. Both run into Terra Geist, a group working to revive the Zenebas Empire. Zoids Battle is a gauntlet of fights, and VS Mode is a one-on-one match in split screen.",
   "vs.about.title": "Fight for the Republic or the Empire.",
   "vs.feature.battle.alt": "A Snipe Master turning in a walled lane under open sky, its rifle swung toward the camera, with a timer, health bar, radar and weapon readout.",

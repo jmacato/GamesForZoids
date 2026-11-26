@@ -1,5 +1,5 @@
-import en from './locales/en.js?v=20261127-hub-55';
-import es from './locales/es.js?v=20261127-hub-55';
+import en from './locales/en.js?v=20261127-hub-56';
+import es from './locales/es.js?v=20261127-hub-56';
 
 const languages = { en, es };
 const attributes = ['aria-label', 'alt', 'content', 'src', 'title'];

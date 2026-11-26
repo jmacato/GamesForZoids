@@ -1,4 +1,4 @@
-import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from '../version.mjs?v=20261127-hub-55';
+import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from '../version.mjs?v=20261127-hub-56';
 
 export default {
   "about.mechanicsAfter": "(en inglés).",
@@ -168,7 +168,7 @@ export default {
   "theme.darkLabel": "MODO OSCURO",
   "theme.lightAria": "Cambiar al modo claro",
   "theme.lightLabel": "MODO CLARO",
-  "vs.about.patch": "Zoids™ VS. salió en Norteamérica como Zoids™: Battle Legends. Esta traducción de aficionados parte del original japonés y abarca la historia, los informes de misión, los menús y los nombres de Zoids, piezas y pilotos. Las voces siguen en japonés.",
+  "vs.about.patch": "Zoids™ VS. nunca salió en inglés. Esta traducción de aficionados abarca la historia, los informes de misión, los menús y los nombres de Zoids, piezas y pilotos. Las voces siguen en japonés.",
   "vs.about.story": "Zoids™ VS. salió para Nintendo GameCube™ en Japón en 2002. El modo Misión cuenta su historia desde dos bandos: el escuadrón de pruebas Blue Unicorn de la República y el escuadrón de operaciones especiales Rottiger del Imperio. Ambos se topan con Terra Geist, un grupo que intenta revivir el Imperio Zenebas. Zoids Battle es una serie de combates seguidos, y el modo VS es un duelo uno contra uno a pantalla dividida.",
   "vs.about.title": "Lucha por la República o por el Imperio",
   "vs.feature.battle.alt": "Un Snipe Master girando en un pasillo amurallado a cielo abierto, con el rifle hacia la cámara, junto a cronómetro, barra de vida, radar e indicador de armas.",

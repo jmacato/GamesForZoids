@@ -1,5 +1,5 @@
-import { applyBps } from './patcher.mjs?v=20261127-hub-55';
-import { GAMES } from './games.js?v=20261127-hub-55';
+import { applyBps } from './patcher.mjs?v=20261127-hub-56';
+import { GAMES } from './games.js?v=20261127-hub-56';
 
 const hex = buffer => Array.from(new Uint8Array(buffer), byte => byte.toString(16).padStart(2, '0')).join('');
 

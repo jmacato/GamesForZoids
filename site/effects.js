@@ -1,5 +1,5 @@
-import { createAnalogPanels } from './crt.js?v=20261127-hub-55';
-import { createHudMotion } from './hud-motion.js?v=20261127-hub-55';
+import { createAnalogPanels } from './crt.js?v=20261127-hub-56';
+import { createHudMotion } from './hud-motion.js?v=20261127-hub-56';
 
 const FRAME_MS = 40;
 const motionAllowed = () => !document.hidden && !matchMedia('(prefers-reduced-motion: reduce)').matches &&

@@ -1,4 +1,4 @@
-import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from './version.mjs?v=20261127-hub-55';
+import { PATCH_VERSION, SAGA_PATCH_VERSION, VS_PATCH_VERSION, VS3_PATCH_VERSION } from './version.mjs?v=20261127-hub-56';
 
 export const GAMES = {
   legacy: {
